@@ -21,7 +21,7 @@ By pressing `ctrl+r` we can send the reponses to the repeater so that we can try
 ![Screenshot_2023-07-10_03_48_22](https://github.com/Anirudh-Saxena/CyberSecurityRumble23/assets/73027020/50a75320-040b-4a59-8445-be5ce7bd6b4c)
 
 hmm this in intresting 
-_330e3e3bbab7a08e48520cb696840294_ : this in nothing but a mb5 string so basically site is converting our messages to md5 string while interpreting it 
+_330e3e3bbab7a08e48520cb696840294_ : this in nothing but a **MD5** string so basically site is converting our messages to md5 string while interpreting it 
 
 now we have to send the get request and insert the value as 1 so that we can obtain the flag :
 for that we will be using this website to convert 1 into md5
